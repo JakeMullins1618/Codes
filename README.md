@@ -11,3 +11,6 @@ https://colab.research.google.com/drive/10MVlxJEAN2lTEsJz8U7zmeolVLCLZGA9?usp=sh
 
 # Predator Prey Model
 https://colab.research.google.com/drive/1Lbs4k8EaBAj-3eoKW6sZfnHjPcIMOk4O?usp=sharing
+
+#tomato code
+https://colab.research.google.com/drive/1klnNsecR3snsVoKgnRBBhFNEvsnBwaZ3?usp=sharing
