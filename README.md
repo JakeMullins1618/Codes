@@ -12,5 +12,10 @@ https://colab.research.google.com/drive/10MVlxJEAN2lTEsJz8U7zmeolVLCLZGA9?usp=sh
 # Predator Prey Model
 https://colab.research.google.com/drive/1Lbs4k8EaBAj-3eoKW6sZfnHjPcIMOk4O?usp=sharing
 
-
-
+# AlexNet Final Project
+* Code
+https://colab.research.google.com/drive/1klnNsecR3snsVoKgnRBBhFNEvsnBwaZ3?usp=sharing
+* Report
+https://www.overleaf.com/read/kchksrxcddzp
+* Presentation
+https://docs.google.com/presentation/d/1JA8IO0uJhZzy0g9lyMir3Qltc35ik6Tv8_XNasN7yUg/edit?usp=sharing
